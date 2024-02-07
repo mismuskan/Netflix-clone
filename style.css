@@ -226,7 +226,10 @@ footer .questions {
     color: white;
 }
 
-
+#copyright{
+    text-align:center;
+    margin:10px;
+}
 
 @media screen and (max-width: 1300px) {
 
